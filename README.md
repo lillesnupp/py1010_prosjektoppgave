@@ -1,0 +1,2 @@
+# py1010_prosjektoppgave
+Arbeidskrav prosjektoppgave Py1010
